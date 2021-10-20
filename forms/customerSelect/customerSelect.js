@@ -1,3 +1,4 @@
+/*
 let req = ""
 let query = ""
 let results = ""
@@ -25,3 +26,4 @@ customerSelect.onshow=function(){
         lblMessage1.textContent = "Error code: " + req.status
 
 }
+*/
