@@ -1,3 +1,4 @@
+/*
 let req = ""
 let query = ""
 let results = ""
@@ -50,3 +51,4 @@ btnDel.onclick=function(){
         txtNames.textContent = `Error: ${req.status}`
       } // found is true
 }
+*/
